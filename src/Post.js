@@ -25,10 +25,10 @@ function Post({displayName, username, verfied, text, image, avatar}) {
                         </h3>
                     </div>
                     <div className="post__headerDescription">
-                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <p>Over the past 6 months, we've been working with the Google #Flutter<br></br> team to bring you the 22 hour long, Complete Flutter Development<br></br>  Bootcamp with Dart! For a limited time, you can get it for just $10.<br></br>  https://appbrewery.co/p/flutter-development-bootcamp-with-dart</p>
                     </div>
                 </div>
-                <img src="https://media.giphy.com/media/NoQWNeVHfXJjLRslXw/giphy.gif" alt="" />
+                <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="" />
                 <div className="post__footer">
                     <ChatBubbleOutlineIcon fontSize="small" />
                     <RepeatIcon fontSize="small" />
