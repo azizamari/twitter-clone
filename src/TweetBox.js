@@ -4,6 +4,7 @@ import "./TweetBox.css"
 import aziz from "./aziz.jpg"
 
 function TweetBox() {
+    const[twee]
     return (
         <div className="tweetbox">
             <form>
